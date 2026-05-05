@@ -9,7 +9,7 @@
 
 | Phase | Bereich | Woche | Status |
 |-------|---------|-------|--------|
-| **1** | Fundament, Verein, Mannschaft | 1–2 | ⬜ Geplant |
+| **1** | Fundament, Verein, Mannschaft | 1–2 | 🟡 Geplant |
 | **2** | Kader, Terminkalender | 3–4 | ⬜ Geplant |
 | **3** | Aufstellung, Matchday-Protokoll | 5–6 | ⬜ Geplant |
 | **4** | Statistiken, Auswertungen | 7 | ⬜ Geplant |
@@ -40,7 +40,7 @@ Das technische Fundament der App wird aufgebaut:
 
 *Ziel: Die App startet, man kann sich registrieren, einen Verein gründen und eine Mannschaft anlegen.*
 
-- [ ] App lässt sich aufrufen und zeigt eine Startseite
+- [x] App lässt sich aufrufen und zeigt eine Startseite
 - [ ] Registrierung und Anmeldung funktionieren
 - [ ] Verein anlegen (Ersteller wird automatisch Administrator)
 - [ ] Einem Verein per 6-stelligem Code beitreten
